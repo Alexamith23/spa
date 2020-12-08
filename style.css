@@ -1,0 +1,35 @@
+.jumbotron{
+    background-color: #1f93d5;
+    color: white;
+}
+
+footer{
+    padding: 10px 10px 0px 10px;
+    background-color:  #1f93d5;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+.card-hotel
+{
+    flex: 1 200px;
+    padding: 5px 10px 5px 10px;
+}
+
+.btn-reserva
+{
+    width: 100%;
+}
+
+.link{
+    color: white;
+}
+
+.titulo-hotel{
+    text-align: center;
+}
+
+.titulo-hotel.negrita{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
